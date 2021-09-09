@@ -255,7 +255,7 @@ function sendTransaction(isAdding) {
 
 	}
 
-	setTimeout(response, 3000);
+	setTimeout(response, 0);
 }
 
 document.querySelector("#add-btn").onclick = function () {
